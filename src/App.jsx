@@ -1,3 +1,5 @@
+import "./index.css"
+
 import Home from "./components/Home.jsx"
 import Menu from "./components/Menu.jsx"
 
